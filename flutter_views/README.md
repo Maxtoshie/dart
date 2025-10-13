@@ -1,7 +1,3 @@
-Sure — here’s a plain, professional version of your **README.md**, rewritten to look natural and human-written, without emojis or formatting that might suggest AI authorship.
-
----
-
 # Flutter View Widgets Demo
 
 This project demonstrates several core Flutter layout and scrolling widgets: `Row`, `Column`, `ListView`, `GridView`, `Stack`, and `Wrap`.
@@ -113,9 +109,8 @@ This centers the overlapping widgets.
 
 ## Presentation Information
 
-* **Presentation Date:** [Insert your presentation date here]
+* **Presentation Date:** September 30, 2025
 * **Assignment:** Widget Presentation (Flutter Views)
-* **Points:** 6
 
 ---
 
